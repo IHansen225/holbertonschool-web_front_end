@@ -1,1 +1,1 @@
-HTML exercises
+Front-end exercises
