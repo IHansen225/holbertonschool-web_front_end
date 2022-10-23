@@ -4,7 +4,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
 
-* {
+*, *:before, *:after {
     box-sizing: border-box;
 }
 
