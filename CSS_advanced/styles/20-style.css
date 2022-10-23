@@ -88,8 +88,8 @@ ul.row {
     list-style: none;
 }
 
-.row:after {
-    
+.row::after {
+
 }
 
 .col-1-3 {
