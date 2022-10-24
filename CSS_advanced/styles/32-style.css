@@ -215,6 +215,7 @@ ul.row {
     transition: var(--transition-duration);
     transition-duration: var(--transition-duration);
     transition-property: background-color;
+    transition-property: color;
 }
 
 .section-hero {
