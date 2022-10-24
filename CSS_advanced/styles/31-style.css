@@ -246,7 +246,7 @@ ul.row {
 
 .card-testimonial .card-quote {
     content: "\201C";
-    position: absolute;
+    position: relative;
     top: -4.5rem;
     left: -1rem;
     color: #efeded;
