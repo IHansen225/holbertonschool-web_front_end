@@ -91,6 +91,7 @@ a:link {
 
 a:visited {
     font-style: italic;
+    color: var(--color-white);
 }
 
 a:hover {
